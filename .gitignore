@@ -1,7 +1,9 @@
 Library/
 Temp/
 ProjectSettings/
+Assets/Standard Assets*
 *.csproj
 *.sln
 *.userprefs
 *.unitypackage
+*.DS_Store

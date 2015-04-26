@@ -1,4 +1,7 @@
 Library/
 Temp/
 ProjectSettings/
-*.cs-proj
+*.csproj
+*.sln
+*.userprefs
+*.unitypackage
